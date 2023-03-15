@@ -1,1 +1,0 @@
-# kmbryn-teco.github.io
