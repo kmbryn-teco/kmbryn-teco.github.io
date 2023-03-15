@@ -47,6 +47,7 @@
     .on('mouseenter mouseleave','.dropdown',toggleDropdown)
     .on('click', '.dropdown-menu a', toggleDropdown);
 
+    
 
     /* Details Lightbox - Magnific Popup */
     $('.popup-with-move-anim').magnificPopup({

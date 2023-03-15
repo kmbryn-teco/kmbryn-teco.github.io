@@ -116,9 +116,9 @@ h6 {
 	line-height: 1.5rem;
 }
 
-.li-space-lg li {
+/* .li-space-lg li {
 	margin-bottom: 0.5rem;
-}
+} */
 
 a {
 	color: #515867;
@@ -683,7 +683,13 @@ input[type='checkbox'] {
 	padding-top: 9.5rem;
 	padding-bottom: 6.625rem;
 	background-color: #040470;
+	background-image: url('../images/products.jpg');
+	
+  /* -webkit-filter: blur(8px);
+  filter: blur(8px); */
+	
 }
+
 
 .cards-1 .h2-heading {
 	margin-bottom: 1rem;
@@ -1073,9 +1079,9 @@ input[type='checkbox'] {
 	color: #515867;
 }
 
-.footer .li-space-lg li {
+/* .footer .li-space-lg li {
 	margin-bottom: 0.375rem;
-}
+} */
 
 .footer .footer-col.third .fa-stack {
 	width: 2em;
@@ -1254,7 +1260,7 @@ a:hover.back-to-top {
 	}
 
 	.p-heading {
-		width: 34rem;
+		/* width: 34rem; */
 		margin-right: auto;
 		margin-left: auto;
 	}
@@ -1509,7 +1515,7 @@ a:hover.back-to-top {
 
 	/* Header */
 	.header {
-		overflow-x: hidden;
+		/* overflow-x: hidden; */
 		padding-top: 10.75rem;
 		padding-bottom: 13rem;
 	}
