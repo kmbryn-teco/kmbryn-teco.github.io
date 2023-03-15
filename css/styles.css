@@ -682,8 +682,9 @@ input[type='checkbox'] {
 .cards-1 {
 	padding-top: 9.5rem;
 	padding-bottom: 6.625rem;
-	background-color: #040470;
+	background-color: #cab693;
 	background-image: url('../images/products.jpg');
+	background-repeat: no-repeat;
 	
   /* -webkit-filter: blur(8px);
   filter: blur(8px); */
